@@ -1,0 +1,5 @@
+RAYDIUM_PUBLIC_KEY="675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+# RPC_HTTPS_URL="https://api.mainnet-beta.solana.com"
+# RPC_WSS_URL=""
+RPC_HTTPS_URL="https://solana-rpc.publicnode.com"
+RPC_WSS_URL="wss://solana-rpc.publicnode.com"
