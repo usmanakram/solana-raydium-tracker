@@ -20,6 +20,7 @@
   "homepage": "https://github.com/usmanakram/solana-raydium-tracker#readme",
   "dependencies": {
     "@solana/web3.js": "^1.98.0",
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
   }
 }
